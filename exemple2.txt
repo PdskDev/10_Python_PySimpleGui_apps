@@ -1,0 +1,2 @@
+Un exemple de texte xD
+C'est un exemple essentiel pour comprendre les basiques de PySimpleGUI

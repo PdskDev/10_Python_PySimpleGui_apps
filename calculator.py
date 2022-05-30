@@ -43,8 +43,8 @@ def create_window(theme):
         sg.Button('+', size=button_size)
     ]
 ]
-    
     return sg.Window('Calculator', layout)
+    
 
 theme_menu = ['menu', ['Dark', 'LightGrey1', 'DarkGray8', 'Random']]
 window = create_window('dark')
